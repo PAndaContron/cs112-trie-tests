@@ -21,7 +21,7 @@ Mac/Linux:
 
 Windows:
 ```
-.\gradlew.bat --console plain run
+.\gradlew --console plain run
 ```
 
 ### Running the Unit Tests
@@ -36,5 +36,5 @@ On Mac and Linux, you may execute the script via the following command:
 
 On Windows, use
 ```
-.\runtests.bat
+.\runtests
 ```
